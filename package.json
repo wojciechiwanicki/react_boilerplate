@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:laboratorium_ee/react_boilerplate.git"
+    "url": "https://github.com/wojciechiwanicki/react_boilerplate.git"
   },
   "main": "index.js",
   "scripts": {
