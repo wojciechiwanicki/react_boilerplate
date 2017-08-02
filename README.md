@@ -9,7 +9,7 @@ Vagrant Box: `ubunty/trusty64`
 ## Setup
 1. Zainstaluj [VirtualBox](https://www.virtualbox.org/)
 2. Zainstaluj [Vagrant](https://www.vagrantup.com/)
-3. Sklonuj repo
+3. Sklonuj repozytorium
 4. Przejdź do folderu z repozytorium:
 ```
 vagrant up
